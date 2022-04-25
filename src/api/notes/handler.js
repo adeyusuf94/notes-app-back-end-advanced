@@ -21,7 +21,7 @@ class NotesHandler {
 
       const response = h.response({
         status: 'success',
-        message: 'Catatan Berhasil Ditambahkan',
+        message: 'Catatan berhasil ditambahkan',
         data: {
           noteId,
         },
